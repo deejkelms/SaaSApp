@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # devise for user auth
 gem 'devise', '3.4.1'
 # use stripe for payment auth
-gem 'stripe', '1.43.0'
+gem 'stripe', '1.16.1'
 # use figaro to hide secret keys
 gem 'figaro', '1.0.0'
 
