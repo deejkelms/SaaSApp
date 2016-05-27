@@ -37,6 +37,8 @@ gem 'stripe', '1.16.1'
 # use figaro to hide secret keys
 gem 'figaro', '1.0.0'
 
+gem 'paperclip', '4.2.1'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
